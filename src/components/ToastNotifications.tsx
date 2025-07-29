@@ -1,6 +1,6 @@
 "use client"
 
-import { toast } from "sonner@2.0.3"
+import { toast } from "sonner"
 import { CheckCircle, AlertCircle, Loader2 } from "lucide-react"
 
 export const showSuccessToast = (message: string) => {
